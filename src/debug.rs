@@ -13,6 +13,7 @@ fn dump(s: &str) {
     }
 }
 
+#[allow(dead_code)]
 pub fn dump_mem(p: *const usize, size_in_kb: isize) {
     const PER_LINE: isize = 8;
 
