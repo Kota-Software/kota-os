@@ -7,6 +7,10 @@ Based on:
 - https://lowenware.com/blog/osdev/aarch64-bare-metal-program-in-rust/
 - https://os.phil-opp.com/freestanding-rust-binary/
 
+More thoroughly documented on:
+
+- https://roamresearch.com/#/app/Kota-OS
+
 ### Running
 
 - `rustup override set nightly`
